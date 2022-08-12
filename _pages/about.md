@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoc at the Princeton Neuroscience Institute in the computational memory laboratory with Ken Norman, and in collaboration with Uri Hasson. I am interested in how the brain uses context, predictions, and regularities to shape our understanding of the world.
+I am a postdoc at the Princeton Neuroscience Institute working with Ken Norman and Uri Hasson. I am interested in how the brain uses prior knowledge, context, and predictions, to shape our understanding of the world.
